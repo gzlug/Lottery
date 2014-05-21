@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of utest0",
+    "framework": "ubuntu-sdk-14.04-qml-dev1",
+    "hooks": {
+        "utest0": {
+            "apparmor": "utest0.json",
+            "desktop": "utest0.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.utest0",
+    "title": "utest0",
+    "version": "0.1"
+}
